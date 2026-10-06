@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Sanzo Wada inspired 4-color palette swatch icon -->
+    <path
+        android:fillColor="#E06D53"
+        android:pathData="M30,30h22v22h-22z" />
+    <path
+        android:fillColor="#4A7C59"
+        android:pathData="M56,30h22v22h-22z" />
+    <path
+        android:fillColor="#F4A261"
+        android:pathData="M30,56h22v22h-22z" />
+    <path
+        android:fillColor="#2A9D8F"
+        android:pathData="M56,56h22v22h-22z" />
+</vector>

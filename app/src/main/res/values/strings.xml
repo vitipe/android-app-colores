@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Wada Sanzo Colors</string>
+    <string name="subtitle">A Dictionary of Color Combinations</string>
+    <string name="search_placeholder">Search by color name or hex...</string>
+    <string name="tab_colors">Colors</string>
+    <string name="tab_combinations">Combinations</string>
+    <string name="tab_favorites">Favorites</string>
+    <string name="copied_to_clipboard">Copied %1$s to clipboard</string>
+    <string name="combinations_count">%1$d combinations</string>
+    <string name="swatch_chapter">Swatch Book %1$d</string>
+</resources>
