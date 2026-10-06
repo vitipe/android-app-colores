@@ -125,5 +125,9 @@ app-colores/
 ## 📚 Créditos y Referencias
 
 - **Sanzo Wada** (1883–1967): Pintor, diseñador de vestuario (ganador del Oscar en 1954) e investigador pionero de combinaciones de color en Japón.
-- **A Dictionary of Color Combinations**: Publicado originalmente por Seigensha Art.
-- **Dataset**: Basado en las recopilaciones y conversiones de color de la comunidad open source (*mattdesl* y *dblodorn*).
+- **A Dictionary of Color Combinations**: Publicado originalmente como *Haishoku Sōkan* (1933–1934); reeditado por Seigensha en 2010.
+- **Dataset**: Los colores y combinaciones vienen de dos proyectos open source con licencia MIT:
+  - [mattdesl/dictionary-of-colour-combinations](https://github.com/mattdesl/dictionary-of-colour-combinations) — © 2020 Matt DesLauriers
+  - [dblodorn/sanzo-wada](https://github.com/dblodorn/sanzo-wada) ([sanzo-wada.dmbk.io](https://sanzo-wada.dmbk.io)) — © 2024 Dain Blodorn
+
+  Los avisos de licencia completos están en [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
